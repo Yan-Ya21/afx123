@@ -12,6 +12,11 @@
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
       description: 资源分享，详细图文教程。
+    - title: 草料二维码演示
+      qrcode: images/qrcodes/草料二维码.png
+      logo: images/logos/caoliao.png
+      url: https://cli.im/
+      description:草料二维码演示，手机可扫。
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
