@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: YouTube
-      qrcode: 
+      qrcode: images/qrcodes/油管.png
       logo: 
       url: https://www.youtube.com/
       description:科学上网教学的频道！
@@ -14,6 +14,7 @@
       url: https://kjgx668.blogspot.com/
       description: 资源分享，详细图文教程。
     - title: 草料二维码演示
+      qrcode: images/qrcodes/草料二维码.png
       logo: 
       url: https://cli.im/
       description:草料二维码演示，手机可扫。
