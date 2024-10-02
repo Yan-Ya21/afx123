@@ -17,6 +17,11 @@
       logo: images/logos/caoliao.png
       url: https://cli.im/
       description: 草料二维码演示，手机可扫。
+    - title: YouTube
+      qrcode: images/qrcodes/GAZE影视.png
+      logo: images/logos/GAAZE.png
+      url: https://gaze.run/.com/
+      description: 科学上网教学的频道！
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
