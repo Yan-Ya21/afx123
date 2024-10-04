@@ -22,6 +22,26 @@
       logo: images/logos/GAAZE.png
       url: https://gaze.run//
       description: gaze影视！
+    - title: 短链接在线生成
+      logo: images/logos/短.png
+      url: https://duanlianjie.szg502797091.workers.dev/kjgx/
+      description: 链接缩短，永久生效。自定义后缀/LoccalStorage
+    - title: 文叔叔
+      logo: images/logos/文.png
+      url: https://www.wenshushu.cn/
+      description: 临时文件，大文件，永久不限速
+    - title: 网络粘贴版
+      logo: images/logos/粘贴.png
+      url: https://netcut.cn/
+      description: 提供数据暂存和传送服务
+    - title: 5ber eSIM卡
+      logo: images/logos/eSIM卡.png
+      url: https://esim.5ber.com/?language=en-US&utm_source=kjgx
+      description: 让国行手机也有eSIM功能
+    - title: 可可影视
+      logo: images/logos/可可影视.png
+      url: https://www.kkys01.com/
+      description: 海量影视
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
